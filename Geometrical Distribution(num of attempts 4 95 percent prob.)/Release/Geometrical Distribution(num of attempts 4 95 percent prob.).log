@@ -1,0 +1,9 @@
+﻿  Geometrical Distribution(num of attempts 4 95 percent prob.).cpp
+F:\games\PoE Stuff\Geometrical Distribution(num of attempts 4 95 percent prob.)\Geometrical Distribution(num of attempts 4 95 percent prob.)\Geometrical Distribution(num of attempts 4 95 percent prob.).cpp(17,20): warning C4018: <: несоответствие типов со знаком и без знака
+F:\games\PoE Stuff\Geometrical Distribution(num of attempts 4 95 percent prob.)\Geometrical Distribution(num of attempts 4 95 percent prob.)\Geometrical Distribution(num of attempts 4 95 percent prob.).cpp(44,20): warning C4018: <: несоответствие типов со знаком и без знака
+F:\games\PoE Stuff\Geometrical Distribution(num of attempts 4 95 percent prob.)\Geometrical Distribution(num of attempts 4 95 percent prob.)\Geometrical Distribution(num of attempts 4 95 percent prob.).cpp(70,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 181 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Geometrical Distribution(num of attempts 4 95 percent prob.).vcxproj -> F:\games\PoE Stuff\Geometrical Distribution(num of attempts 4 95 percent prob.)\Release\Geometrical Distribution(num of attempts 4 95 percent prob.).exe

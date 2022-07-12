@@ -1,0 +1,5 @@
+﻿  Geometrical Distribution(num of attempts 4 95 percent prob.).cpp
+F:\games\PoE Stuff\Geometrical Distribution(num of attempts 4 95 percent prob.)\Geometrical Distribution(num of attempts 4 95 percent prob.)\Geometrical Distribution(num of attempts 4 95 percent prob.).cpp(17,20): warning C4018: <: несоответствие типов со знаком и без знака
+F:\games\PoE Stuff\Geometrical Distribution(num of attempts 4 95 percent prob.)\Geometrical Distribution(num of attempts 4 95 percent prob.)\Geometrical Distribution(num of attempts 4 95 percent prob.).cpp(44,20): warning C4018: <: несоответствие типов со знаком и без знака
+F:\games\PoE Stuff\Geometrical Distribution(num of attempts 4 95 percent prob.)\Geometrical Distribution(num of attempts 4 95 percent prob.)\Geometrical Distribution(num of attempts 4 95 percent prob.).cpp(70,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Geometrical Distribution(num of attempts 4 95 percent prob.).vcxproj -> F:\games\PoE Stuff\Geometrical Distribution(num of attempts 4 95 percent prob.)\Debug\Geometrical Distribution(num of attempts 4 95 percent prob.).exe
